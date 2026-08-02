@@ -7,7 +7,7 @@ function App() {
       <div className="container">
         <header className="App-header"></header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="pixel" />
         </main>
         <footer className="App-footer">
           <small>Coded by Jordyn Pilcher</small>
